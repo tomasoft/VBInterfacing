@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "VBInterfacing.SQL", "VBInterfacing.SQL\VBInterfacing.SQL.sqlproj", "{9848CF98-60DA-45BD-A4FC-FE74635649F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VBInterfacing.Console", "VBInterfacing.Console\VBInterfacing.Console.csproj", "{D5C10889-0C0F-4304-85D4-0B5716B510A8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VBInterfacing.DAL", "VBInterfacing.DAL\VBInterfacing.DAL.csproj", "{DCD6495E-1C5D-4DD2-8760-72D213EA4CD0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VBInterfacing.E2ETests", "VBInterfacing.E2ETests\VBInterfacing.E2ETests.csproj", "{0C41ED30-B3D9-483A-B1D4-A5B262657E9B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VBInterfacing.Models", "VBInterfacing.Models\VBInterfacing.Models.csproj", "{FC05C561-D4E4-446A-B6C3-95740BB1A0BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VB6Project", "VB6Project", "{D6366777-54A2-4660-A895-77F123421186}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\clsUserValidator.cls = C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\clsUserValidator.cls
+		C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\DbUserValidator.cls = C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\DbUserValidator.cls
+		C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\IUserValidator.cls = C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\IUserValidator.cls
+		C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\VBUserValidator.dll = C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\VBUserValidator.dll
+		C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\VBUserValidator.exp = C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\VBUserValidator.exp
+		C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\VBUserValidator.lib = C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\VBUserValidator.lib
+		C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\VBUserValidator.vbp = C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\VBUserValidator.vbp
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9848CF98-60DA-45BD-A4FC-FE74635649F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9848CF98-60DA-45BD-A4FC-FE74635649F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9848CF98-60DA-45BD-A4FC-FE74635649F2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9848CF98-60DA-45BD-A4FC-FE74635649F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9848CF98-60DA-45BD-A4FC-FE74635649F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9848CF98-60DA-45BD-A4FC-FE74635649F2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D5C10889-0C0F-4304-85D4-0B5716B510A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C10889-0C0F-4304-85D4-0B5716B510A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C10889-0C0F-4304-85D4-0B5716B510A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C10889-0C0F-4304-85D4-0B5716B510A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCD6495E-1C5D-4DD2-8760-72D213EA4CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD6495E-1C5D-4DD2-8760-72D213EA4CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD6495E-1C5D-4DD2-8760-72D213EA4CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD6495E-1C5D-4DD2-8760-72D213EA4CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C41ED30-B3D9-483A-B1D4-A5B262657E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C41ED30-B3D9-483A-B1D4-A5B262657E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C41ED30-B3D9-483A-B1D4-A5B262657E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C41ED30-B3D9-483A-B1D4-A5B262657E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC05C561-D4E4-446A-B6C3-95740BB1A0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC05C561-D4E4-446A-B6C3-95740BB1A0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC05C561-D4E4-446A-B6C3-95740BB1A0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC05C561-D4E4-446A-B6C3-95740BB1A0BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0951691E-9D92-41B2-A309-5579E4781121}
+	EndGlobalSection
+EndGlobal
