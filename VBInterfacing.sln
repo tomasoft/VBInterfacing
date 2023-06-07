@@ -13,17 +13,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VBInterfacing.E2ETests", "V
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VBInterfacing.Models", "VBInterfacing.Models\VBInterfacing.Models.csproj", "{FC05C561-D4E4-446A-B6C3-95740BB1A0BC}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VB6Project", "VB6Project", "{D6366777-54A2-4660-A895-77F123421186}"
-	ProjectSection(SolutionItems) = preProject
-		C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\clsUserValidator.cls = C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\clsUserValidator.cls
-		C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\DbUserValidator.cls = C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\DbUserValidator.cls
-		C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\IUserValidator.cls = C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\IUserValidator.cls
-		C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\VBUserValidator.dll = C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\VBUserValidator.dll
-		C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\VBUserValidator.exp = C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\VBUserValidator.exp
-		C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\VBUserValidator.lib = C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\VBUserValidator.lib
-		C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\VBUserValidator.vbp = C:\Program Files (x86)\Microsoft Visual Studio\VB98\Projects\VBInterfacing\VBUserValidator.vbp
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
