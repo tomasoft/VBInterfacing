@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VBInterfacing.E2ETests", "V
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VBInterfacing.Models", "VBInterfacing.Models\VBInterfacing.Models.csproj", "{FC05C561-D4E4-446A-B6C3-95740BB1A0BC}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{46B269EE-0B8C-47AC-931B-ABA8A9FC2E7A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VBInterfacing.Domain", "VBInterfacing.Domain", "{46B269EE-0B8C-47AC-931B-ABA8A9FC2E7A}"
 	ProjectSection(SolutionItems) = preProject
 		VBInterfacing.Domain\clsUserValidator.cls = VBInterfacing.Domain\clsUserValidator.cls
 		VBInterfacing.Domain\DbUserValidator.cls = VBInterfacing.Domain\DbUserValidator.cls
