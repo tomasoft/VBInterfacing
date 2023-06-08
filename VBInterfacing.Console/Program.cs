@@ -21,7 +21,7 @@ internal class Program
         
         dbUser = GetDbUser("TomStefanou1");
         // This validator requires a non empty username and password
-        // and password length of at least 8 characters long
+        // and password length of at least 9 characters long
         ValidateUser(dbUser, UserValidator.DbValidator);
 
         Console.Write("Press any key to exit...");
